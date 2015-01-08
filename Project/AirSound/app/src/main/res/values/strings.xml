@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AirSound</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="menu_items">
+        <item>Record</item>
+        <item>My Records</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="drawerOpen">Open</string>
+    <string name="drawerClose">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
