@@ -1,4 +1,3 @@
-Android Class
+BJTU Android class projects
 =============
 
-BJTU Android class projects
